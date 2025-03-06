@@ -14,3 +14,8 @@ Interactive Dashboards (Filters for deep analysis)
 Visualizations (Bar Charts, pie charts, Attrition Trends, cards)
 # Conclusion:
 The analysis revealed that low salary, job satisfaction and early-career exits were major contributors to employee attrition. The insights can help HR teams improve retention strategies by addressing these factors.
+
+Data Source: 
+The dataset used in this project is collected from [Rishabh Mishra Youtube Channel]https://www.youtube.com/watch?v=j4xlVLgsmNQ
+https://drive.google.com/drive/folders/18mQalCEyZypeV8TJeP3SME_R6qsCS2Og
+All rights belong to the original creator, and the data has been used for educational and analytical purposes only.
